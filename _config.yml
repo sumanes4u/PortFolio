@@ -1,6 +1,18 @@
-title: Minimal theme
+title:  <p align="center"> Suman Samarthi </p>
 logo: /assets/img/DSC_1391.JPG
-description: Minimal is a theme for GitHub Pages.
+description: 
+  <p align="center">
+  <a href="pdf/resume.pdf">Resume</a> |
+  <a href="https://www.linkedin.com/in/suman-samarthi-3b1109126/">LinkedIn</a> |
+  <a href="https://github.com/sumanes4u">GitHub</a>
+  
+  <br>   
+  Data Science and ML Aspirant.
+  Working in building ML models for Networking profile based analytics.
+  Building ML models for seemless trouble shooting.
+  Currently working for HPE in analysing serviceability aspect's of the product.
+  <br>
+  </p>
 show_downloads: true
 google_analytics:
 theme: jekyll-theme-minimal
