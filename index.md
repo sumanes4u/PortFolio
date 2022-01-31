@@ -2,10 +2,12 @@
 layout: default
 ---
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
+# Data Science Portfolio
 
 [Link to another page](./another-page.html).
+## Machine learning
 
+### Fraud Detection
 There should be whitespace between paragraphs.
 
 There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
